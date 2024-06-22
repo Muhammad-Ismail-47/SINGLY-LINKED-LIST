@@ -1,6 +1,5 @@
 # SINGLY-LINKED-LIST
 Singly Linked List code Implemented in C++
-# SINGLY-LINKED-LIST
 
 The provided code implements a SinglyLinkedList class in C++. Here's a breakdown of its functionalities:
 
